@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 0bc34488-e0d3-a4a6-632d-51789ee53160
 videos:

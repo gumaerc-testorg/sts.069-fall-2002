@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Student Anthology
 uid: 3497a7e2-6e37-69bc-cc39-83856702602c
 ---
