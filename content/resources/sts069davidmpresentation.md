@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 12f0d159-44ba-e5ad-3dd6-3e984470a0ca
 resourcetype: Document
 title: sts069davidmpresentation.pdf
 uid: 81e14569-6054-620f-2203-113b2ffd83bb

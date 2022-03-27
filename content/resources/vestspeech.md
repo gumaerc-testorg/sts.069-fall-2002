@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 639bbc09-a2da-6050-527a-bf7cf9fe4af2
 resourcetype: Document
 title: vestspeech.pdf
 uid: 2f77af3f-7aa7-855e-9fb6-b5dd3d464fc3

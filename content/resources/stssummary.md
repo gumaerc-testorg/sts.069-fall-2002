@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 12f0d159-44ba-e5ad-3dd6-3e984470a0ca
 resourcetype: Document
 title: stssummary.pdf
 uid: 92be4c7a-4d01-3ac8-e0f4-9132a115cfa7

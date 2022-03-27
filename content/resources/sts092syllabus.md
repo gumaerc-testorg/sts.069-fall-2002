@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 6084244c-b9a1-a83a-5494-92937862b0d2
 resourcetype: Document
 title: STS092syllabus.pdf
 uid: 93fdf870-dbbd-fb55-9f4b-8e7565d0ef7d
