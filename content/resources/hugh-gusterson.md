@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Related Resources
@@ -25,3 +26,6 @@ video_metadata:
 
 Hugh Gusterson, Center for International Studies (CIS) and Department of Anthropology  
 (Courtesy of Hugh Gusterson. Used with permission.)
+
+
+

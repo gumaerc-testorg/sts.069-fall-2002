@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/sts-069-technology-in-a-dangerous-world-fall-2002/84393754ddfb3b887a08b2102d628853_5jrZ_AxAb5s.pdf
+file: /courses/sts-069-technology-in-a-dangerous-world-fall-2002/84393754ddfb3b887a08b2102d628853_5jrZ_AxAb5s.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

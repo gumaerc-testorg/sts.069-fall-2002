@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Related Resources
@@ -25,3 +26,6 @@ video_metadata:
 
 Kendall Hoyt, graduate student, Science, Technology & Society Program  
 (Courtesy of Kendall Hoyt. Used with permission.)
+
+
+

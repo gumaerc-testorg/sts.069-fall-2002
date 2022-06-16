@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides a bibliography of course readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -64,7 +65,7 @@ Perrow, Charles. _Normal Accidents: Living with High-Risk Technologies_. New Yor
 
 Schivelbusch, Wolfgang. _The Railway Journey_. Berkeley, Calif.: University of California Press, 1986 \[1977\], chap. 7, 8, 9, 10 and Excursi, pp. 113-170.
 
-Vest, Charles M. "Openness, Opportunity and Security in Universities: A National Challenge." Address to the National Association and College and University Attorneys. Boston, Massachusetts, 26 June 2002. ([PDF]({{< baseurl >}}/resources/vestspeech))
+Vest, Charles M. "Openness, Opportunity and Security in Universities: A National Challenge." Address to the National Association and College and University Attorneys. Boston, Massachusetts, 26 June 2002. ({{% resource_link 2f77af3f-7aa7-855e-9fb6-b5dd3d464fc3 "PDF" %}})
 
 Weart, Spencer. _Nuclear Fear: A History of Images_. Cambridge, Mass.: Harvard University Press, 1988, chap. 6, 11, 18 and conclusion, pp. 103-127, 199-214, 348-374 and 421-426.
 
@@ -73,8 +74,8 @@ Williams, Rosalind H. _Retooling: A Historian Confronts Technological Change_. C
 Reading Questions
 -----------------
 
-Reading Question 1 ([PDF]({{< baseurl >}}/resources/readingquestion1))  
-Reading Question 2 ([PDF]({{< baseurl >}}/resources/readingquestion2))
+Reading Question 1 ({{% resource_link 27aa64f2-4306-90e1-435c-9fca1207ee8f "PDF" %}})  
+Reading Question 2 ({{% resource_link 2fdbc829-2961-ea33-6a84-06b3a1e340dd "PDF" %}})
 
 STS.092 Current Events from an STS Perspective - Book Review Selection List
 ---------------------------------------------------------------------------
