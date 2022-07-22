@@ -11,10 +11,10 @@ image_metadata:
   image-alt: Animated illustration of the rapid decrease in commercial air traffic
     over the continental United States from 9:00 am to 12:00 pm on September 11, 2001.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: sts-069f02-th.jpg
 uid: aa69b6b8-ae85-32b3-4ee4-2a6b74440bd6
 ---
 New image Upload
-

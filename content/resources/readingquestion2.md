@@ -5,6 +5,7 @@ file: /courses/sts-069-technology-in-a-dangerous-world-fall-2002/2fdbc8292961ea3
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: readingquestion2.pdf
 uid: 2fdbc829-2961-ea33-6a84-06b3a1e340dd
 ---
 Reading Questions
-
