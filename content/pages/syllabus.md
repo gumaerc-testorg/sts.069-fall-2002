@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, class goals, assignments, lectures, speaking, writing, the term project,
+  and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 6084244c-b9a1-a83a-5494-92937862b0d2
 ---
@@ -9,7 +14,7 @@ Note: This section incorporates material from both Fall 2002, STS.069 Technology
 STS.069 Technology in a Dangerous World
 ---------------------------------------
 
-Syllabus ([PDF]({{< baseurl >}}/resources/syllabus))
+Syllabus ({{% resource_link 6b765230-42da-0ce4-75d4-53181bfea1e6 "PDF" %}})
 
 ### Course Meeting Times
 
@@ -30,7 +35,7 @@ MIT's academic honesty policy can be found at the following link: [https://polic
 STS.092 Current Events from an STS Perspective
 ----------------------------------------------
 
-Syllabus ([PDF]({{< baseurl >}}/resources/sts092syllabus))
+Syllabus ({{% resource_link 93fdf870-dbbd-fb55-9f4b-8e7565d0ef7d "PDF" %}})
 
 ### Goals of class
 

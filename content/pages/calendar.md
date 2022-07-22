@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, activities, readings,
+  and assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 12f0d159-44ba-e5ad-3dd6-3e984470a0ca
 ---
 
-Note: No formal calendar was created for STS.092, which met weekly for two hours in a seminar/discussion format as described in the [syllabus]({{< baseurl >}}/pages/syllabus) document.
+Note: No formal calendar was created for STS.092, which met weekly for two hours in a seminar/discussion format as described in the {{% resource_link 6084244c-b9a1-a83a-5494-92937862b0d2 "syllabus" %}} document.
 
 STS.069 Technology in a Dangerous World
 ---------------------------------------
@@ -405,7 +409,7 @@ David Mark's Slide Presentation.
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Final Review ([PDF]({{< baseurl >}}/resources/stssummary))
+Final Review ({{% resource_link 92be4c7a-4d01-3ac8-e0f4-9132a115cfa7 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  

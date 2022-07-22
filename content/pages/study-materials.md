@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: Included in this section are e-mails from the instructor to the students
+  in STS.092 Current Events from an STS Perspective, which help to provide insight
+  into class discussions. Also included is one e-mail from a guest instructor to the
+  instructor, summarizing activities from one class meeting.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 702c2e56-6756-6943-271f-179f352ede23
 ---

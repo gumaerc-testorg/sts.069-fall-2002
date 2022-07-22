@@ -1,6 +1,10 @@
 ---
 content_type: video_gallery
+description: This section provides selected segments of the MIT Teach-in on "Technology,
+  War, and Terrorism," from October 1, 2001.
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 0bc34488-e0d3-a4a6-632d-51789ee53160
 videos:
