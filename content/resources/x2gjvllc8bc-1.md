@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/sts-069-technology-in-a-dangerous-world-fall-2002/f829940d83f86f7ad65fbc5d9ea5aefb_X2GJVlLC8bc.pdf
+file_size: 20296
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

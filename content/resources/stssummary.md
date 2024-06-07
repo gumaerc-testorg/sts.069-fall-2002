@@ -2,6 +2,7 @@
 content_type: resource
 description: Review of STS.069
 file: /courses/sts-069-technology-in-a-dangerous-world-fall-2002/92be4c7a4d013ac8e0f49132a115cfa7_stssummary.pdf
+file_size: 489401
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

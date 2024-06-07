@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/sts-069-technology-in-a-dangerous-world-fall-2002/aa69b6b8ae8532b34ee42a6b74440bd6_sts-069f02-th.jpg
+file_size: 15060
 file_type: image/jpeg
 image_metadata:
   caption: "Illustration of the rapid decrease in air traffic over the continental\

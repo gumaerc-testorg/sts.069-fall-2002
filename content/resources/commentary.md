@@ -2,6 +2,7 @@
 content_type: resource
 description: Introductory essay
 file: /courses/sts-069-technology-in-a-dangerous-world-fall-2002/cb348651d0c6b1c6e94c3fa5c5b64bb0_commentary.pdf
+file_size: 67783
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
