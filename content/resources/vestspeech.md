@@ -5,6 +5,7 @@ description: 'Charles M. Vest ?Openness, Opportunity and Security in Universitie
 
   Address to the National Association and College and University Attorneys'
 file: /courses/sts-069-technology-in-a-dangerous-world-fall-2002/2f77af3f7aa7855e9fb6b5dd3d464fc3_vestspeech.pdf
+file_size: 121722
 file_type: application/pdf
 learning_resource_types:
 - Readings

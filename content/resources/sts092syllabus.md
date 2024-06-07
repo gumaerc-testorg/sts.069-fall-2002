@@ -2,6 +2,7 @@
 content_type: resource
 description: STS.092 Spring Term 2003
 file: /courses/sts-069-technology-in-a-dangerous-world-fall-2002/93fdf870dbbdfb559f4b8e7565d0ef7d_STS092syllabus.pdf
+file_size: 82411
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

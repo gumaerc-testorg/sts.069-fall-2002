@@ -30,7 +30,7 @@ Grades will be based on short assignments (25%), student paper (40%), contributi
 
 Attendance is recorded and required. Serious note-taking is necessary. Plagiarism in any form is unacceptable. These and other ground rules, as well as grading policy, will be discussed in more detail in the first two classes.
 
-MIT's academic honesty policy can be found at the following link: {{% resource_link "e647feff-5089-4c6a-9966-62789342ae3b" "https://policies-procedures.mit.edu/academic-misconduct-and-dishonesty" %}}
+MIT's academic honesty policy can be found at the following link: [https://policies-procedures.mit.edu/academic-misconduct-and-dishonesty](https://policies-procedures.mit.edu/academic-misconduct-and-dishonesty)
 
 STS.092 Current Events from an STS Perspective
 ----------------------------------------------
@@ -81,4 +81,4 @@ Syllabus ({{% resource_link 93fdf870-dbbd-fb55-9f4b-8e7565d0ef7d "PDF" %}})
 *   Short assignments: 65%
 *   Book review: 20%
 
-MIT's academic honesty policy can be found at the following link: {{% resource_link "51bc2948-c6dc-449c-bec0-76869e3a1aeb" "http://web.mit.edu/policies/10.0.html" %}}
+MIT's academic honesty policy can be found at the following link: [http://web.mit.edu/policies/10.0.html](http://web.mit.edu/policies/10.0.html)
