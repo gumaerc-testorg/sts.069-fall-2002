@@ -4,6 +4,7 @@ description: 'Technologies in a Dangerous World
 
   A Somewhat Different Slant'
 file: /courses/sts-069-technology-in-a-dangerous-world-fall-2002/81e145696054620f2203113b2ffd83bb_sts069davidmpresentation.pdf
+file_size: 697962
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
