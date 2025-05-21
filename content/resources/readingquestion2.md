@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reading Questions
-file: /ol-ocw-studio-app/courses/sts-069-technology-in-a-dangerous-world-fall-2002/2fdbc8292961ea336a8406b3a1e340dd_readingquestion2.pdf
+file: /courses/sts-069-technology-in-a-dangerous-world-fall-2002/2fdbc8292961ea336a8406b3a1e340dd_readingquestion2.pdf
 file_size: 62798
 file_type: application/pdf
 learning_resource_types:
