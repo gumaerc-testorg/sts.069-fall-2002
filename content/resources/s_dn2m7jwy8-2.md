@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/sts-069-technology-in-a-dangerous-world-fall-2002/b6c101d7dd435aa792b8b92b7e235ec8_s_dn2M7JWy8.vtt
+file: /courses/sts-069-technology-in-a-dangerous-world-fall-2002/b6c101d7dd435aa792b8b92b7e235ec8_s_dn2M7JWy8.vtt
 file_size: 2583
 file_type: application/x-subrip
 learning_resource_types: []
