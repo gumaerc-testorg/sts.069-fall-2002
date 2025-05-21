@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: STS.069 Technology Dangerous World Syllabus
-file: /ol-ocw-studio-app/courses/sts-069-technology-in-a-dangerous-world-fall-2002/6b76523042da0ce475d453181bfea1e6_syllabus.pdf
+file: /courses/sts-069-technology-in-a-dangerous-world-fall-2002/6b76523042da0ce475d453181bfea1e6_syllabus.pdf
 file_size: 39232
 file_type: application/pdf
 learning_resource_types: []
